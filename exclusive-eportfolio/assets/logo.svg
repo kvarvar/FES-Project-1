@@ -1,0 +1,42 @@
+<svg width="600" height="270" viewBox="0 0 600 270" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+
+
+  <!-- Logo mark container, centered -->
+  <g transform="translate(248, 80)">
+
+    <!-- Outer bracket left [ -->
+    <rect x="0" y="0" width="7" height="52" rx="2" fill="#534AB7"/>
+    <rect x="0" y="0" width="20" height="7" rx="2" fill="#534AB7"/>
+    <rect x="0" y="45" width="20" height="7" rx="2" fill="#534AB7"/>
+
+    <!-- K letter shape -->
+    <rect x="28" y="0" width="8" height="52" rx="2" fill="#534AB7"/>
+    <polygon points="36,0 36,26 62,0 72,0 44,28 72,52 62,52 36,28 36,52 28,52 28,0" fill="#534AB7"/>
+
+    <!-- Outer bracket right ] -->
+    <rect x="75" y="0" width="20" height="7" rx="2" fill="#1D9E75"/>
+    <rect x="75" y="45" width="20" height="7" rx="2" fill="#1D9E75"/>
+    <rect x="88" y="0" width="7" height="52" rx="2" fill="#1D9E75"/>
+
+    <!-- Dot accent -->
+    <circle cx="100" cy="46" r="5" fill="#1D9E75"/>
+
+  </g>
+
+  <!-- Wordmark -->
+  <text x="300" y="172" text-anchor="middle" font-family="Palatino Linotype, Palatino, Book Antiqua, serif" font-size="34" font-weight="400" fill="#534AB7" letter-spacing="3">KateCraft</text>
+
+  <!-- Studio label -->
+  <text x="300" y="200" text-anchor="middle" font-family="Palatino Linotype, Palatino, Book Antiqua, serif" font-size="12" font-weight="400" font-style="italic" fill="#1D9E75" letter-spacing="8">studio</text>
+
+  <!-- Divider -->
+  <line x1="170" y1="218" x2="430" y2="218" stroke="#AFA9EC" stroke-width="0.5"/>
+
+  <!-- Tagline -->
+  <text x="300" y="240" text-anchor="middle" font-family="Palatino Linotype, Palatino, Book Antiqua, serif" font-size="11" font-style="italic" fill="#7F77DD">web development · crafted with care</text>
+
+
+
+</svg>
