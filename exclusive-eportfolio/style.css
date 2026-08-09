@@ -206,6 +206,12 @@ PROJECTS
     margin-bottom: 60px;
 }
 
+.project__list {
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
 .project__img {
     width: 100%;
 }
